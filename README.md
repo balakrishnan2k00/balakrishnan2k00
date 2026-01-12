@@ -44,13 +44,13 @@
 
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td align="center" width="70%">
+    <td align="center" width="60%">
       <img 
         src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg"
         width="100%"
       />
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="40%">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=balakrishnan2k00&theme=github_dark"
         width="100%"
