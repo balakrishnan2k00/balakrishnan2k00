@@ -6,119 +6,106 @@
 
 <p align="center">
   <a href="mailto:balakrishnan2k00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-balakrishnan2k00-red?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/balakrishnan2k/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Balakrishnan-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/balakrishn2k" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@balakrishn2k-blue?style=flat-square&logo=twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/balakrishn2k/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@balakrishn2k-purple?style=flat-square&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="https://telegram.me/balakrishn2k" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@balakrishn2k-blue?style=flat-square&logo=telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=balakrishnan2k00&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balakrishnan2k00&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img alt="Coding" width="70%"
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Backgates – A Platform for Developers**
+- 🔭 Building **Backgates – A Platform for Developers**
 - 🌱 Learning **React & Modern Frontend Patterns**
-- 👯 Looking to collaborate on **Enterprise & Data-Driven Applications**
+- 👯 Open to **Enterprise & Data-Driven Applications**
 - 💬 Ask me about **.NET, Web APIs, SQL, React**
 - 📄 **[View Resume](https://1drv.ms/b/c/ffe075fd0ee5411c/IQCQEpXUrs9GRJEbNLQugY2cAbXFTl1KcO9ffK10SRUxxMs?e=K204Wg)**
-- ⚡ Fun fact: *Sometimes I think I could crack jokes… sometimes they even land 😄*
+- ⚡ Fun fact: *Sometimes my jokes compile, sometimes they don’t 😄*
+---
+
+## 🐍 Contribution Activity & Stats
+
+<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="center" width="70%">
+      <img 
+        src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="30%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=balakrishnan2k00&theme=github_dark"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
-## 🧠 Tech Stack (Full Stack .NET)
+## 🧠 Languages and Tools
 
-### 🔹 Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-</p>
-
-- ASP.NET Core
-- Web APIs & REST Services
-- Authentication & Authorization
-- Microservices Basics
-
----
-
-### 🔹 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-</p>
-
-- React (Hooks, State, Components)
-- Responsive UI Design
-- REST API Integration
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🔹 Databases
-<p>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-</p>
+## 💼 What I Do Best
 
-- SQL Server
-- PostgreSQL
-- Query Optimization & Indexing
+- Design and build **scalable backend systems**
+- Develop **secure RESTful APIs** using ASP.NET Core
+- Optimize **SQL queries & database performance**
+- Integrate **frontend apps with backend services**
+- Work with **Azure, Docker, CI/CD pipelines**
 
 ---
 
-### 🔹 DevOps & Cloud
-<p>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
+## 🎯 Current Focus
 
-- Azure App Services
-- CI/CD Pipelines
-- Docker Containers
-- Git & Version Control
+- Strengthening **React + Frontend Architecture**
+- Clean Architecture & **Microservices fundamentals**
+- Writing **maintainable, testable code**
+- Performance & security best practices
+
+
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let’s Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balakrishnan2k00&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=balakrishnan2k00&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=balakrishnan2k00&theme=onedark" />
-
-</p>
-
------
+- 💼 Open to **Full Stack / Backend roles**
+- 🤝 Interested in **collaborations & side projects**
+- 📫 Reach me via **email or LinkedIn**
 
 ⭐ *If you like my profile, feel free to follow and connect!*
-
