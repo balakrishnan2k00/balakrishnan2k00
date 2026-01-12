@@ -36,7 +36,7 @@
 - 🌱 Learning **React & Modern Frontend Patterns**
 - 👯 Open to **Enterprise & Data-Driven Applications**
 - 💬 Ask me about **.NET, Web APIs, SQL, React**
-- 📄 **[View Resume](https://1drv.ms/b/c/ffe075fd0ee5411c/IQCQEpXUrs9GRJEbNLQugY2cAbXFTl1KcO9ffK10SRUxxMs?e=K204Wg)**
+- 📄 **Resume**: Request via email or LinkedIn
 - ⚡ Fun fact: *Sometimes my jokes compile, sometimes they don’t 😄*
 ---
 
