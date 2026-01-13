@@ -37,7 +37,7 @@
 - 👯 Open to **Enterprise & Data-Driven Applications**
 - 💬 Ask me about **.NET, Web APIs, SQL, React**
 - 📄 **Resume**: Request via email or LinkedIn
-- ⚡ Fun fact: *Sometimes my jokes compile, sometimes they don’t 😄*
+- ⚡ Fun fact: *Sometimes I think I could crack jokes… sometimes they even land 😄*
 ---
 
 ## 🐍 Contribution Activity & Stats
